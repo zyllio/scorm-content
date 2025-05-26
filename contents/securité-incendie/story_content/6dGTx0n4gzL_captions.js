@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.10.22406.0%0D%0A%0D%0A00:00:00.001%20--%3E%2000:00:01.894%0D%0A%C3%80%20chaque%20feu%20son%20extincteur.%0D%0A%0D%0A00:00:01.914%20--%3E%2000:00:03.972%0D%0ASaurez-vous%20reconnaitre%20ces%20extincteurs%20?%0D%0A%0D%0A"}')

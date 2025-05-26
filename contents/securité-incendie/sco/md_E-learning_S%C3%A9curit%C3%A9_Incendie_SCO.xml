@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><lom xmlns="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM ../lomcomp.xsd"><general><identifier><entry>E_learning_Securite_Incendie__SCORM_2004____220320/E-learning_Sécurité_Incendie_SCO</entry></identifier><title><string>E-learning Sécurité Incendie (SCORM 2004) - 22032021</string></title><language/><description><string>Cet item obligatoire t'expliquera comment évacuer une personne en situation de handicap. Une attestation sera à archiver dans ton registre d'accessibilité.</string></description><keyword><string>évacuation</string></keyword><keyword><string>handicap</string></keyword><aggregationLevel><source>LOMv1.0</source><value>2</value></aggregationLevel></general><lifeCycle><status><source>LOMv1.0</source><value>final</value></status><contribute><role><source>LOMv1.0</source><value>author</value></role><entity>BEGIN:VCARD
+VERSION:3.0
+
+N:CRESTA;Emmanuelle
+FN:Emmanuelle CRESTA
+EMAIL;PREF;INTERNET:e.cresta@kiabi.com
+END:VCARD</entity><date><dateTime>2021-03-26T13:00</dateTime></date></contribute></lifeCycle><metaMetadata><identifier><entry>md_/E-learning_Sécurité_Incendie_SCO</entry></identifier><contribute><role><source>LOMv1.0</source><value>creator</value></role><entity>BEGIN:VCARD
+VERSION:3.0
+FN:MOS Chorus R1 044.5.6
+END:VCARD</entity><date><dateTime>2021-03-26T12:57</dateTime></date></contribute><metadataSchema>LOMv1.0</metadataSchema><metadataSchema>ADLv1.0</metadataSchema></metaMetadata><technical><format>text/html</format></technical><educational><interactivityType><source>LOMv1.0</source><value>mixed</value></interactivityType><typicalLearningTime><duration>PT20M</duration></typicalLearningTime></educational></lom>
