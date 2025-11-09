@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+    <activities>
+        <activity id="https://elearning.easygenerator.com/30381606-d84f-471f-93e9-81c6a000251b" type="http://adlnet.gov/expapi/activities/course">
+            <name>Annonce d’un &#233;v&#233;nement d’entreprise</name>
+            <description>Prenez part &#224; un [Atelier d’am&#233;lioration des comp&#233;tences]!</description>
+            <launch>index.html</launch>
+        </activity>
+    </activities>
+</tincan>

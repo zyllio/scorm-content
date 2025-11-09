@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="EGb5856114-f1a8-4ee2-995f-a45e6e7326bc" version="1.1"
+    xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                        http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="easygenerator">
+    <organization identifier="easygenerator">
+      <title>E-Learning Course Review Checklist</title>
+      <item identifier="eg1" identifierref="REFSCO1" isvisible="true">
+        <title>E-Learning Course Review Checklist</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="REFSCO1" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="metadata.xml" />
+      <dependency identifierref="resources" />
+    </resource>
+    <resource identifier="resources" type="webcontent" adlcp:scormtype="asset">
+          <file href="adlcp_rootv1p2.xsd" />
+          <file href="ims_xml.xsd" />
+          <file href="imscp_rootv1p1p2.xsd" />
+          <file href="imsmd_rootv1p2p1.xsd" />
+          <file href="index.html" />
+          <file href="main.min.js" />
+    </resource>
+  </resources>
+</manifest>
